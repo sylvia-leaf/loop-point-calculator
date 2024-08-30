@@ -4,20 +4,19 @@
     Public CrossfadeEnd As UInt32
     Public LoopStart As UInt32
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        MsgBox("Copyright 2021 strixSF2 (@starguardian2004). All Rights Reserved.
+        MsgBox("Copyright 2021, 2024 Sylvia Leaf (sylvia-leaf)
 
-Stardream Studios Advanced Loop Point Calculator is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.")
     End Sub
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        MsgBox("1. Choose the repeat region (Example: 10000 - 99999) and use the 'repeat' function on your audio editor - repeat once.
-2. Choose the crossfade region (Repeat End - 'crossfade length' + 1 to Repeat End + 'crossfade length' + 1. 
-Example: 80000 - 120000). Make sure that the calculated values are not out of bounds!
+        MsgBox("1. Please select the repeat region (for instance: 10000 - 99999), and then you can use the 'repeat' function on your audio editor. Repeat only once.
+2. The crossfade region will be [repeat end] - [crossfade length] + 1 to [repeat end] + [crossfade length] + 1 (for instance: 80000 - 120000). Make sure that the calculated values are not out of bounds!
 3. Save the crossfade region.
-4. Do crossfade. (This feature may only work for selected single-track, depending on audio editor)
+4. Crossfade the samples. (This feature might only work for individually selected tracks, depending on the audio editor used.)
 5. Load the region to other tracks, then repeat step 4.
-6. The new loop region is 30000 - 99999 (Repeat Start + 'crossfade length' to Repeat End).")
+6. The new loop region is 30000 - 99999 ([repeat end] + [crossfade length] to [Repeat end].")
     End Sub
     Private Sub NumericUpDown1_ValueChanged(sender As Object, e As EventArgs) Handles NumericUpDown1.ValueChanged
         If NumericUpDown1.Value > NumericUpDown2.Value Then

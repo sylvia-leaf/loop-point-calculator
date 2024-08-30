@@ -22,259 +22,259 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.NumericUpDown2 = New System.Windows.Forms.NumericUpDown()
-        Me.NumericUpDown1 = New System.Windows.Forms.NumericUpDown()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.NumericUpDown3 = New System.Windows.Forms.NumericUpDown()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.GroupBox3 = New System.Windows.Forms.GroupBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.GroupBox1.SuspendLayout()
-        CType(Me.NumericUpDown2, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.NumericUpDown1, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox2.SuspendLayout()
-        CType(Me.NumericUpDown3, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox3.SuspendLayout()
-        Me.SuspendLayout()
-        '
-        'GroupBox1
-        '
-        Me.GroupBox1.Controls.Add(Me.TextBox1)
-        Me.GroupBox1.Controls.Add(Me.Label3)
-        Me.GroupBox1.Controls.Add(Me.NumericUpDown2)
-        Me.GroupBox1.Controls.Add(Me.NumericUpDown1)
-        Me.GroupBox1.Controls.Add(Me.Label2)
-        Me.GroupBox1.Controls.Add(Me.Label1)
-        Me.GroupBox1.Location = New System.Drawing.Point(13, 13)
-        Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(251, 112)
-        Me.GroupBox1.TabIndex = 0
-        Me.GroupBox1.TabStop = False
-        Me.GroupBox1.Text = "Repeat Region"
-        '
-        'TextBox1
-        '
-        Me.TextBox1.Location = New System.Drawing.Point(110, 81)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.ReadOnly = True
-        Me.TextBox1.Size = New System.Drawing.Size(135, 23)
-        Me.TextBox1.TabIndex = 5
-        Me.TextBox1.Text = "0 Samples"
-        '
-        'Label3
-        '
-        Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(7, 84)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(86, 15)
-        Me.Label3.TabIndex = 4
-        Me.Label3.Text = "Repeat Length:"
-        '
-        'NumericUpDown2
-        '
-        Me.NumericUpDown2.Location = New System.Drawing.Point(110, 53)
-        Me.NumericUpDown2.Maximum = New Decimal(New Integer() {2147483647, 0, 0, 0})
-        Me.NumericUpDown2.Name = "NumericUpDown2"
-        Me.NumericUpDown2.Size = New System.Drawing.Size(135, 23)
-        Me.NumericUpDown2.TabIndex = 3
-        '
-        'NumericUpDown1
-        '
-        Me.NumericUpDown1.Location = New System.Drawing.Point(110, 23)
-        Me.NumericUpDown1.Maximum = New Decimal(New Integer() {2147483647, 0, 0, 0})
-        Me.NumericUpDown1.Name = "NumericUpDown1"
-        Me.NumericUpDown1.Size = New System.Drawing.Size(135, 23)
-        Me.NumericUpDown1.TabIndex = 2
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(7, 55)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(69, 15)
-        Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Repeat End:"
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(7, 25)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(73, 15)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Repeat Start:"
-        '
-        'GroupBox2
-        '
-        Me.GroupBox2.Controls.Add(Me.TextBox3)
-        Me.GroupBox2.Controls.Add(Me.Label6)
-        Me.GroupBox2.Controls.Add(Me.TextBox2)
-        Me.GroupBox2.Controls.Add(Me.Label5)
-        Me.GroupBox2.Controls.Add(Me.NumericUpDown3)
-        Me.GroupBox2.Controls.Add(Me.Label4)
-        Me.GroupBox2.Location = New System.Drawing.Point(13, 131)
-        Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(251, 109)
-        Me.GroupBox2.TabIndex = 1
-        Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Crossfade Region"
-        '
-        'TextBox3
-        '
-        Me.TextBox3.Location = New System.Drawing.Point(110, 79)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.ReadOnly = True
-        Me.TextBox3.Size = New System.Drawing.Size(135, 23)
-        Me.TextBox3.TabIndex = 10
-        Me.TextBox3.Text = "0 Samples"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(7, 82)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(85, 15)
-        Me.Label6.TabIndex = 9
-        Me.Label6.Text = "Crossfade End:"
-        '
-        'TextBox2
-        '
-        Me.TextBox2.Location = New System.Drawing.Point(110, 50)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.ReadOnly = True
-        Me.TextBox2.Size = New System.Drawing.Size(135, 23)
-        Me.TextBox2.TabIndex = 8
-        Me.TextBox2.Text = "0 Samples"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(7, 53)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(89, 15)
-        Me.Label5.TabIndex = 7
-        Me.Label5.Text = "Crossfade Start:"
-        '
-        'NumericUpDown3
-        '
-        Me.NumericUpDown3.Location = New System.Drawing.Point(110, 23)
-        Me.NumericUpDown3.Maximum = New Decimal(New Integer() {2147483647, 0, 0, 0})
-        Me.NumericUpDown3.Name = "NumericUpDown3"
-        Me.NumericUpDown3.Size = New System.Drawing.Size(135, 23)
-        Me.NumericUpDown3.TabIndex = 6
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(7, 25)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(102, 15)
-        Me.Label4.TabIndex = 0
-        Me.Label4.Text = "Crossfade Length:"
-        '
-        'GroupBox3
-        '
-        Me.GroupBox3.Controls.Add(Me.TextBox4)
-        Me.GroupBox3.Controls.Add(Me.Label8)
-        Me.GroupBox3.Controls.Add(Me.TextBox5)
-        Me.GroupBox3.Controls.Add(Me.Label7)
-        Me.GroupBox3.Location = New System.Drawing.Point(280, 13)
-        Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(272, 112)
-        Me.GroupBox3.TabIndex = 2
-        Me.GroupBox3.TabStop = False
-        Me.GroupBox3.Text = "Final Loop Region"
-        '
-        'TextBox4
-        '
-        Me.TextBox4.Location = New System.Drawing.Point(82, 75)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.ReadOnly = True
-        Me.TextBox4.Size = New System.Drawing.Size(135, 23)
-        Me.TextBox4.TabIndex = 12
-        Me.TextBox4.Text = "0 Samples"
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(12, 40)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(64, 15)
-        Me.Label8.TabIndex = 6
-        Me.Label8.Text = "Loop Start:"
-        '
-        'TextBox5
-        '
-        Me.TextBox5.Location = New System.Drawing.Point(82, 37)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.ReadOnly = True
-        Me.TextBox5.Size = New System.Drawing.Size(135, 23)
-        Me.TextBox5.TabIndex = 11
-        Me.TextBox5.Text = "0 Samples"
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(12, 78)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(60, 15)
-        Me.Label7.TabIndex = 7
-        Me.Label7.Text = "Loop End:"
-        '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(405, 197)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 3
-        Me.Button1.Text = "License"
-        Me.Button1.UseVisualStyleBackColor = True
-        '
-        'Button2
-        '
-        Me.Button2.Location = New System.Drawing.Point(324, 197)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
-        Me.Button2.TabIndex = 4
-        Me.Button2.Text = "Help"
-        Me.Button2.UseVisualStyleBackColor = True
-        '
-        'Form1
-        '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(564, 255)
-        Me.Controls.Add(Me.Button2)
-        Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.GroupBox3)
-        Me.Controls.Add(Me.GroupBox2)
-        Me.Controls.Add(Me.GroupBox1)
-        Me.Name = "Form1"
-        Me.Text = "Stardream Studios Advanced Loop Point Calculator"
-        Me.GroupBox1.ResumeLayout(False)
-        Me.GroupBox1.PerformLayout()
-        CType(Me.NumericUpDown2, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.NumericUpDown1, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox2.ResumeLayout(False)
-        Me.GroupBox2.PerformLayout()
-        CType(Me.NumericUpDown3, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox3.ResumeLayout(False)
-        Me.GroupBox3.PerformLayout()
-        Me.ResumeLayout(False)
+        GroupBox1 = New GroupBox()
+        TextBox1 = New TextBox()
+        Label3 = New Label()
+        NumericUpDown2 = New NumericUpDown()
+        NumericUpDown1 = New NumericUpDown()
+        Label2 = New Label()
+        Label1 = New Label()
+        GroupBox2 = New GroupBox()
+        TextBox3 = New TextBox()
+        Label6 = New Label()
+        TextBox2 = New TextBox()
+        Label5 = New Label()
+        NumericUpDown3 = New NumericUpDown()
+        Label4 = New Label()
+        GroupBox3 = New GroupBox()
+        TextBox4 = New TextBox()
+        Label8 = New Label()
+        TextBox5 = New TextBox()
+        Label7 = New Label()
+        Button1 = New Button()
+        Button2 = New Button()
+        GroupBox1.SuspendLayout()
+        CType(NumericUpDown2, ComponentModel.ISupportInitialize).BeginInit()
+        CType(NumericUpDown1, ComponentModel.ISupportInitialize).BeginInit()
+        GroupBox2.SuspendLayout()
+        CType(NumericUpDown3, ComponentModel.ISupportInitialize).BeginInit()
+        GroupBox3.SuspendLayout()
+        SuspendLayout()
+        ' 
+        ' GroupBox1
+        ' 
+        GroupBox1.Controls.Add(TextBox1)
+        GroupBox1.Controls.Add(Label3)
+        GroupBox1.Controls.Add(NumericUpDown2)
+        GroupBox1.Controls.Add(NumericUpDown1)
+        GroupBox1.Controls.Add(Label2)
+        GroupBox1.Controls.Add(Label1)
+        GroupBox1.Location = New Point(13, 14)
+        GroupBox1.Name = "GroupBox1"
+        GroupBox1.Size = New Size(251, 119)
+        GroupBox1.TabIndex = 0
+        GroupBox1.TabStop = False
+        GroupBox1.Text = "Repeat Region"
+        ' 
+        ' TextBox1
+        ' 
+        TextBox1.Location = New Point(110, 86)
+        TextBox1.Name = "TextBox1"
+        TextBox1.ReadOnly = True
+        TextBox1.Size = New Size(135, 23)
+        TextBox1.TabIndex = 5
+        TextBox1.Text = "0 Samples"
+        ' 
+        ' Label3
+        ' 
+        Label3.AutoSize = True
+        Label3.Location = New Point(7, 90)
+        Label3.Name = "Label3"
+        Label3.Size = New Size(89, 16)
+        Label3.TabIndex = 4
+        Label3.Text = "Repeat Length:"
+        ' 
+        ' NumericUpDown2
+        ' 
+        NumericUpDown2.Location = New Point(110, 57)
+        NumericUpDown2.Maximum = New Decimal(New Integer() {Integer.MaxValue, 0, 0, 0})
+        NumericUpDown2.Name = "NumericUpDown2"
+        NumericUpDown2.Size = New Size(135, 23)
+        NumericUpDown2.TabIndex = 3
+        ' 
+        ' NumericUpDown1
+        ' 
+        NumericUpDown1.Location = New Point(110, 25)
+        NumericUpDown1.Maximum = New Decimal(New Integer() {Integer.MaxValue, 0, 0, 0})
+        NumericUpDown1.Name = "NumericUpDown1"
+        NumericUpDown1.Size = New Size(135, 23)
+        NumericUpDown1.TabIndex = 2
+        ' 
+        ' Label2
+        ' 
+        Label2.AutoSize = True
+        Label2.Location = New Point(7, 59)
+        Label2.Name = "Label2"
+        Label2.Size = New Size(71, 16)
+        Label2.TabIndex = 1
+        Label2.Text = "Repeat End:"
+        ' 
+        ' Label1
+        ' 
+        Label1.AutoSize = True
+        Label1.Location = New Point(7, 27)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(76, 16)
+        Label1.TabIndex = 0
+        Label1.Text = "Repeat Start:"
+        ' 
+        ' GroupBox2
+        ' 
+        GroupBox2.Controls.Add(TextBox3)
+        GroupBox2.Controls.Add(Label6)
+        GroupBox2.Controls.Add(TextBox2)
+        GroupBox2.Controls.Add(Label5)
+        GroupBox2.Controls.Add(NumericUpDown3)
+        GroupBox2.Controls.Add(Label4)
+        GroupBox2.Location = New Point(13, 140)
+        GroupBox2.Name = "GroupBox2"
+        GroupBox2.Size = New Size(251, 116)
+        GroupBox2.TabIndex = 1
+        GroupBox2.TabStop = False
+        GroupBox2.Text = "Crossfade Region"
+        ' 
+        ' TextBox3
+        ' 
+        TextBox3.Location = New Point(110, 84)
+        TextBox3.Name = "TextBox3"
+        TextBox3.ReadOnly = True
+        TextBox3.Size = New Size(135, 23)
+        TextBox3.TabIndex = 10
+        TextBox3.Text = "0 Samples"
+        ' 
+        ' Label6
+        ' 
+        Label6.AutoSize = True
+        Label6.Location = New Point(7, 87)
+        Label6.Name = "Label6"
+        Label6.Size = New Size(86, 16)
+        Label6.TabIndex = 9
+        Label6.Text = "Crossfade End:"
+        ' 
+        ' TextBox2
+        ' 
+        TextBox2.Location = New Point(110, 53)
+        TextBox2.Name = "TextBox2"
+        TextBox2.ReadOnly = True
+        TextBox2.Size = New Size(135, 23)
+        TextBox2.TabIndex = 8
+        TextBox2.Text = "0 Samples"
+        ' 
+        ' Label5
+        ' 
+        Label5.AutoSize = True
+        Label5.Location = New Point(7, 57)
+        Label5.Name = "Label5"
+        Label5.Size = New Size(91, 16)
+        Label5.TabIndex = 7
+        Label5.Text = "Crossfade Start:"
+        ' 
+        ' NumericUpDown3
+        ' 
+        NumericUpDown3.Location = New Point(110, 25)
+        NumericUpDown3.Maximum = New Decimal(New Integer() {Integer.MaxValue, 0, 0, 0})
+        NumericUpDown3.Name = "NumericUpDown3"
+        NumericUpDown3.Size = New Size(135, 23)
+        NumericUpDown3.TabIndex = 6
+        ' 
+        ' Label4
+        ' 
+        Label4.AutoSize = True
+        Label4.Location = New Point(7, 27)
+        Label4.Name = "Label4"
+        Label4.Size = New Size(104, 16)
+        Label4.TabIndex = 0
+        Label4.Text = "Crossfade Length:"
+        ' 
+        ' GroupBox3
+        ' 
+        GroupBox3.Controls.Add(TextBox4)
+        GroupBox3.Controls.Add(Label8)
+        GroupBox3.Controls.Add(TextBox5)
+        GroupBox3.Controls.Add(Label7)
+        GroupBox3.Location = New Point(280, 14)
+        GroupBox3.Name = "GroupBox3"
+        GroupBox3.Size = New Size(272, 119)
+        GroupBox3.TabIndex = 2
+        GroupBox3.TabStop = False
+        GroupBox3.Text = "Final Loop Region"
+        ' 
+        ' TextBox4
+        ' 
+        TextBox4.Location = New Point(82, 80)
+        TextBox4.Name = "TextBox4"
+        TextBox4.ReadOnly = True
+        TextBox4.Size = New Size(135, 23)
+        TextBox4.TabIndex = 12
+        TextBox4.Text = "0 Samples"
+        ' 
+        ' Label8
+        ' 
+        Label8.AutoSize = True
+        Label8.Location = New Point(12, 43)
+        Label8.Name = "Label8"
+        Label8.Size = New Size(65, 16)
+        Label8.TabIndex = 6
+        Label8.Text = "Loop Start:"
+        ' 
+        ' TextBox5
+        ' 
+        TextBox5.Location = New Point(82, 39)
+        TextBox5.Name = "TextBox5"
+        TextBox5.ReadOnly = True
+        TextBox5.Size = New Size(135, 23)
+        TextBox5.TabIndex = 11
+        TextBox5.Text = "0 Samples"
+        ' 
+        ' Label7
+        ' 
+        Label7.AutoSize = True
+        Label7.Location = New Point(12, 83)
+        Label7.Name = "Label7"
+        Label7.Size = New Size(60, 16)
+        Label7.TabIndex = 7
+        Label7.Text = "Loop End:"
+        ' 
+        ' Button1
+        ' 
+        Button1.Location = New Point(405, 210)
+        Button1.Name = "Button1"
+        Button1.Size = New Size(75, 25)
+        Button1.TabIndex = 3
+        Button1.Text = "License"
+        Button1.UseVisualStyleBackColor = True
+        ' 
+        ' Button2
+        ' 
+        Button2.Location = New Point(324, 210)
+        Button2.Name = "Button2"
+        Button2.Size = New Size(75, 25)
+        Button2.TabIndex = 4
+        Button2.Text = "Help"
+        Button2.UseVisualStyleBackColor = True
+        ' 
+        ' Form1
+        ' 
+        AutoScaleDimensions = New SizeF(7F, 16F)
+        AutoScaleMode = AutoScaleMode.Font
+        ClientSize = New Size(564, 272)
+        Controls.Add(Button2)
+        Controls.Add(Button1)
+        Controls.Add(GroupBox3)
+        Controls.Add(GroupBox2)
+        Controls.Add(GroupBox1)
+        Name = "Form1"
+        Text = "Loop Point Calculator by sylvia-leaf"
+        GroupBox1.ResumeLayout(False)
+        GroupBox1.PerformLayout()
+        CType(NumericUpDown2, ComponentModel.ISupportInitialize).EndInit()
+        CType(NumericUpDown1, ComponentModel.ISupportInitialize).EndInit()
+        GroupBox2.ResumeLayout(False)
+        GroupBox2.PerformLayout()
+        CType(NumericUpDown3, ComponentModel.ISupportInitialize).EndInit()
+        GroupBox3.ResumeLayout(False)
+        GroupBox3.PerformLayout()
+        ResumeLayout(False)
 
     End Sub
 

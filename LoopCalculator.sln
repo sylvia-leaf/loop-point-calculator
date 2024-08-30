@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AdvLoop", "AdvLoop.vbproj", "{0863F4D9-97E7-406E-A820-4B8A14AAB565}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "LoopCalculator", "LoopCalculator.vbproj", "{0863F4D9-97E7-406E-A820-4B8A14AAB565}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

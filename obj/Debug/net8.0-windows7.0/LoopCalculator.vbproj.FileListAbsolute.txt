@@ -1,0 +1,16 @@
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\AdvLoop.Form1.resources
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.vbproj.GenerateResource.cache
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.AssemblyInfoInputs.cache
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.AssemblyInfo.vb
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\bin\Debug\net8.0-windows7.0\LoopCalculator.exe
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\bin\Debug\net8.0-windows7.0\LoopCalculator.deps.json
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\bin\Debug\net8.0-windows7.0\LoopCalculator.runtimeconfig.json
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\bin\Debug\net8.0-windows7.0\LoopCalculator.dll
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\bin\Debug\net8.0-windows7.0\LoopCalculator.pdb
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.dll
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\refint\LoopCalculator.dll
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.pdb
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\LoopCalculator.genruntimeconfig.cache
+C:\Users\Sylvia\Downloads\AdvLoop-main\AdvLoop-main\obj\Debug\net8.0-windows7.0\ref\LoopCalculator.dll

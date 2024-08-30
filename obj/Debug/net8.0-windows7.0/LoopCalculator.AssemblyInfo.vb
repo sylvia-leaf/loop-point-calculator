@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("AdvLoop"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("LoopCalculator"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("AdvLoop"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("AdvLoop"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("LoopCalculator"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("LoopCalculator"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 
