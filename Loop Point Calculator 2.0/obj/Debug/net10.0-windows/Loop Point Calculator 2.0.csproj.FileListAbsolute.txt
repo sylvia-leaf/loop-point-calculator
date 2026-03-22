@@ -1,0 +1,16 @@
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\bin\Debug\net10.0-windows\Loop Point Calculator 2.0.exe
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\bin\Debug\net10.0-windows\Loop Point Calculator 2.0.deps.json
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\bin\Debug\net10.0-windows\Loop Point Calculator 2.0.runtimeconfig.json
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\bin\Debug\net10.0-windows\Loop Point Calculator 2.0.dll
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\bin\Debug\net10.0-windows\Loop Point Calculator 2.0.pdb
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop_Point_Calculator_2._0.Form1.resources
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.csproj.GenerateResource.cache
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.AssemblyInfoInputs.cache
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.AssemblyInfo.cs
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.csproj.CoreCompileInputs.cache
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.dll
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\refint\Loop Point Calculator 2.0.dll
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.pdb
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\Loop Point Calculator 2.0.genruntimeconfig.cache
+F:\NET programs\AdvLoop2\Loop Point Calculator 2.0\Loop Point Calculator 2.0\obj\Debug\net10.0-windows\ref\Loop Point Calculator 2.0.dll
